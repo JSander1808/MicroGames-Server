@@ -1,0 +1,8 @@
+Pyroaxe:
+  Multiplier: 3
+Deathbringer:
+  Multiplier: 3
+  Lifesteal: 2
+enchantments:
+  lore:
+    color: !!org.bukkit.ChatColor$5 {}
