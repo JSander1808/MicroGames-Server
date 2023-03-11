@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "00000000-0000-0000-0009-01f5f4754873",
+    "name": "!Rembel1808",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "0186408f-db40-4fc0-abac-847bd12ad8f5",
     "name": "Kumpelblaeschen",
     "level": 4,
@@ -8,6 +14,12 @@
   {
     "uuid": "7ad6999c-a338-4579-8b0c-fc724b9a9755",
     "name": "RembelGHG",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6bd0ebf1-506d-44c2-82dd-b3db0c4abf47",
+    "name": "FS_FynnPEKKA",
     "level": 4,
     "bypassesPlayerLimit": false
   }
